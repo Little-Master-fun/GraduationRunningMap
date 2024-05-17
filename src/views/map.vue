@@ -172,7 +172,7 @@ onMounted(() => {
 
 <style>
 #map {
-  height: 667px;
+  height: 100vh;
 }
 * {
   margin: 0px;
