@@ -10,8 +10,12 @@
   },
   "dependencies": {
     "@element-plus/icons": "^0.0.11",
+    "animate.css": "^4.1.1",
+    "axios": "^1.6.8",
     "element-plus": "^2.7.2",
     "leaflet": "^1.9.4",
+    "reset-css": "^5.0.2",
+    "tdesign-mobile-vue": "^1.2.0",
     "unocss": "^0.59.4",
     "vue": "^3.4.27",
     "vue-router": "^4.3.0"
